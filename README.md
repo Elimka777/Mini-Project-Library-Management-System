@@ -12,6 +12,6 @@ cd path/to/LibraryManagementSystem
 
 2)Run the Application:
 
-python main.py
+main.py
 
 Enjoy😊
